@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISMFirstConsoleProject", "ISMFirstConsoleProject\ISMFirstConsoleProject.csproj", "{2F36DBF2-A372-4BB6-94CE-7079AD819001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F36DBF2-A372-4BB6-94CE-7079AD819001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F36DBF2-A372-4BB6-94CE-7079AD819001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F36DBF2-A372-4BB6-94CE-7079AD819001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F36DBF2-A372-4BB6-94CE-7079AD819001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {948026FB-1A01-4CF9-8EA3-9351D9ED64C5}
+	EndGlobalSection
+EndGlobal

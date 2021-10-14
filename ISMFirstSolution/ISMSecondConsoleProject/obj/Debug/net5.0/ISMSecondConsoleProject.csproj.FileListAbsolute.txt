@@ -1,0 +1,15 @@
+F:\ISM\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\net5.0\ISMSecondConsoleProject.exe
+F:\ISM\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\net5.0\ISMSecondConsoleProject.deps.json
+F:\ISM\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\net5.0\ISMSecondConsoleProject.runtimeconfig.json
+F:\ISM\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\net5.0\ISMSecondConsoleProject.runtimeconfig.dev.json
+F:\ISM\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\net5.0\ISMSecondConsoleProject.dll
+F:\ISM\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\net5.0\ref\ISMSecondConsoleProject.dll
+F:\ISM\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\net5.0\ISMSecondConsoleProject.pdb
+F:\ISM\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\net5.0\ISMSecondConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\ISM\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\net5.0\ISMSecondConsoleProject.AssemblyInfoInputs.cache
+F:\ISM\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\net5.0\ISMSecondConsoleProject.AssemblyInfo.cs
+F:\ISM\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\net5.0\ISMSecondConsoleProject.csproj.CoreCompileInputs.cache
+F:\ISM\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\net5.0\ISMSecondConsoleProject.dll
+F:\ISM\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\net5.0\ref\ISMSecondConsoleProject.dll
+F:\ISM\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\net5.0\ISMSecondConsoleProject.pdb
+F:\ISM\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\net5.0\ISMSecondConsoleProject.genruntimeconfig.cache

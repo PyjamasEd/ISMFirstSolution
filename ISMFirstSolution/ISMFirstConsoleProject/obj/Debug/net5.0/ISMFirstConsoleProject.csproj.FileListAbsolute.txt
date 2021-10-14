@@ -1,0 +1,16 @@
+F:\ISM\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\net5.0\ISMFirstConsoleProject.exe
+F:\ISM\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\net5.0\ISMFirstConsoleProject.deps.json
+F:\ISM\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\net5.0\ISMFirstConsoleProject.runtimeconfig.json
+F:\ISM\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\net5.0\ISMFirstConsoleProject.runtimeconfig.dev.json
+F:\ISM\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\net5.0\ISMFirstConsoleProject.dll
+F:\ISM\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\net5.0\ref\ISMFirstConsoleProject.dll
+F:\ISM\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\net5.0\ISMFirstConsoleProject.pdb
+F:\ISM\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\net5.0\ISMFirstConsoleProject.csproj.AssemblyReference.cache
+F:\ISM\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\net5.0\ISMFirstConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\ISM\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\net5.0\ISMFirstConsoleProject.AssemblyInfoInputs.cache
+F:\ISM\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\net5.0\ISMFirstConsoleProject.AssemblyInfo.cs
+F:\ISM\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\net5.0\ISMFirstConsoleProject.csproj.CoreCompileInputs.cache
+F:\ISM\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\net5.0\ISMFirstConsoleProject.dll
+F:\ISM\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\net5.0\ref\ISMFirstConsoleProject.dll
+F:\ISM\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\net5.0\ISMFirstConsoleProject.pdb
+F:\ISM\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\net5.0\ISMFirstConsoleProject.genruntimeconfig.cache
